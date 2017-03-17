@@ -125,7 +125,7 @@ int main(int argc, char **argv)
 			}
 		}
 	
-
+//This is rubbish
 	if(nvar<2)
 	{
 		writestep2nc(ncoutfile,outvarnameA,nx,ny,to+nn*dt,zz);
